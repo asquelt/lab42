@@ -1,0 +1,38 @@
+on:
+  pull_reqest:
+    type:
+      - 'opened'
+    branches:
+      - 'main'
+
+jobs:
+  depchecktest:
+    runs-on: ubuntu-latest
+    name: depecheck_test
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Build project with NPM
+        run: npm install
+      - name: Depcheck
+        uses: dependency-check/Dependency-Check_Action@main
+        id: Depcheck
+        with:
+          project: 'lab42'
+          path: '.'
+          format: 'HTML'    
+          out: 'reports'
+          args: >
+            --failOnCVSS 7
+            --enableRetired
+      - name: Upload Test results
+        uses: actions/upload-artifact@master
+        with:
+           name: Depcheck report
+           path: ${{github.workspace}}/reports
+      - name: Approve Pull Request
+        uses: juliangruber/approve-pull-request-action@v2.0.0
+        with:
+           github-token: ${{ secrets.GITHUB_TOKEN }}
+           number: 1
+
