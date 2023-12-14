@@ -33,6 +33,3 @@ npm run dev
 nom run build
 ```
 
-# Contributing
-
-Just make a pr :)
