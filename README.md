@@ -37,6 +37,8 @@ npm install #or yarn
 # Running development
 npm run dev
 
+
+
 # Building
 nom run build
 ```
