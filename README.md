@@ -45,4 +45,4 @@ nom run build
 
 # Contributing
 
-Just make a pr :)
+Just make a pr and hope for the best :)
