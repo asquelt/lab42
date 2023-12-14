@@ -3,21 +3,9 @@ name: Automerge PR
 on:
   workflow_run:
     workflows:
-      - pull_open
+      - 'OWASP SCA on PR'
     types:
       - completed
-  pull_request:
-    type:
-      - 'opened'
-    branches:
-      - 'main'
-  pull_request_review:
-    types:
-      - submitted
-  check_suite:
-    types:
-      - completed
-  status: {}
 
 jobs:
   automerge:
