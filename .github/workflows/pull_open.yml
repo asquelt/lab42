@@ -1,5 +1,7 @@
+name: Run OWASP Dependency Check, merge on success
+
 on:
-  pull_reqest:
+  pull_request:
     type:
       - 'opened'
     branches:

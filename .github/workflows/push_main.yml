@@ -1,3 +1,5 @@
+name: Run OWASP Dependency Check on main branch
+
 on:
   push:
     branches:
