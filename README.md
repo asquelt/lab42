@@ -9,9 +9,9 @@
 
 [OWASP-prepared action for SCA on GitHub](https://github.com/dependency-check/Dependency-Check_Action) and [automerge-action](https://github.com/marketplace/actions/merge-pull-requests-automerge-action) has been used.
 
-Repository file (.github/workflows/push_main.yml) performs scans on each push to main branch.
+Repository file [push_main.yml](.github/workflows/push_main.yml) performs scans on each push to main branch.
 
-Repository file (.github/workflows/pull_open.yml) performs scans on each opened pull request.
+Repository file [pull_open.yml](.github/workflows/pull_open.yml) performs scans on each opened pull request.
 
 Additionally branch protection has been set to only allow merge when CI has finished.
 
