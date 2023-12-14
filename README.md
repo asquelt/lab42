@@ -42,3 +42,11 @@ nom run build
 # Contributing
 
 Just make a pr :)
+
+```
+:              _______
+:             / .   . \
+:            I         I
+: --------OOO---|   |---OOO--------------------
+:               (___)
+```
