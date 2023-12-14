@@ -21,6 +21,8 @@ Finally auto-merge has been enabled.
 
 ![Auto-merge setting](https://ze.psu.je/UYTZr/zrzut-ekranu-2023-12-14-o-13.45.34.png)
 
+NOTE: According to [GitHub documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/automatically-merging-a-pull-request#about-auto-merge) only users with r/w permissions to repository are able to auto-merge. Public forks won't merge automagically.
+
 # Todo App
 
 A simple buggy todo app
