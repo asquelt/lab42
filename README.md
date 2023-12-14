@@ -42,3 +42,78 @@ nom run build
 # Contributing
 
 Just make a pr :)
+
+```
+     ...           ...           ...           ...
+    (o o)         (- o)         (o -)         (- -)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+     ...           ...           ...           ...
+    (* *)         (x x)         (o O)         (O o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+     ...           ___           ,,,           ooo
+    ( oo)         (o o)         (o o)         (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+     ===           +++           ###          -*~*-
+    (o o)         (o o)         (o o)         (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+     ***           |||          -`^'-          /777
+    (o o)         (o o)         (o o)         (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+     _/7           )))           (((           xxx
+    (o o)         (o o)         (o o)         (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+                                  _
+  `  ___  '        @__           ((_           >X<
+ -  (O o)  -      (o o)         (o o)         (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+     '*`          \-^-/          ^^^           )|(
+    (o o)         (o o)         (o o)         (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+                                 (           |
+     \|/           &&&           _)_         |.===.
+    (o o)         (o o)         (o o)        {}o o{}
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+    ( ( (                           ...           |"|
+  '. ___ .'       ,,,,,        o,*,(o o)         _|_|_
+ '  (> <) '      /(o o)\      8(o o)(_)Ooo       (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO-(_)---Ooo----ooO--(_)--Ooo-
+
+      _                          ___         .      .
+    _|_|_        __MMM__        .|||.      .  .:::.
+    (o o)         (o o)         (o o)        :(o o):  .
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+                   ___         _     _          ___
+     vvv          /\#/\      o' \,=./ `o       /_\ `*
+    (0~0)        /(o o)\        (o o)         (o o)
+ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+    _   _      #   ___      #                 #     ___
+   '\\-//`     #  <_*_>     #=ooO=========Ooo=#    '/_\
+    (o o)      #  (o o)     #  \\  (o o)  //  #    (o o)
+ooO--(_)--Ooo--8---(_)--Ooo---------(_)--------ooO--(_)--Ooo-
+
+     !!!                                        o
+  `  _ _  '     `  _ ,  '       ()_()        ` /_\ '
+ -  (OXO)  -   -  (o)o)  -      (o o)       - (o o) -
+ooO--(_)--Ooo--ooO'(_)--Ooo-ooO--`o'--Ooo-ooO--(_)--Ooo-
+
+     ___       #  #  #  #       _   _             .
+   .'_#_`.     #  #..#  #      (_)-(_)        ,-_-|
+   |[o o]|     #  #O #) #       (o o)        ([o o])
+ooO--(_)--Ooo-o#O-#(_#--#oo-ooO--(_)--Ooo-ooO--(_)--Ooo-
+
+                     n
+    ((__))      ____/_\____
+     (00)          (z z)
+nn--(o__o)--nn-ooO--(_)--Ooo-
+
+```
