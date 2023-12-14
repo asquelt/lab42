@@ -11,7 +11,13 @@
 
 Repository file (.github/workflows/push_main.yml) performs scans on each push to main branch.
 
-Repository file (.github/workflows/pull_open.yml) performs scans on each opened pull request and if it succeeds it accepts it - GitHub then should automatically merge the code.
+Repository file (.github/workflows/pull_open.yml) performs scans on each opened pull request.
+
+Repository file (.github/workflows/pull_merge.yml) accepts the merge.
+
+Additionally branch protection has been set to only allow merge when CI has finished.
+
+![Branch protection setup](https://ze.psu.je/137YZN/zrzut-ekranu-2023-12-14-o-11.50.42.png)
 
 # Todo App
 
