@@ -1,4 +1,4 @@
-name: Run OWASP Dependency Check, merge on success
+name: OWASP SCA, merge on success
 
 on:
   pull_request:
@@ -13,7 +13,7 @@ jobs:
     name: depecheck_test
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
       - name: Make yarn.lock
         run: yarn
       - name: Build project with NPM
