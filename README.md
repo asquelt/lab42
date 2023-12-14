@@ -7,7 +7,7 @@
 
 # Lab Documentation
 
-[OWASP-prepared action for SCA on GitHub](https://github.com/dependency-check/Dependency-Check_Action) and [GitHub Action for approving pull requests](https://github.com/juliangruber/approve-pull-request-action) has been used.
+[OWASP-prepared action for SCA on GitHub](https://github.com/dependency-check/Dependency-Check_Action) and [automerge-action](https://github.com/marketplace/actions/merge-pull-requests-automerge-action) has been used.
 
 Repository file (.github/workflows/push_main.yml) performs scans on each push to main branch.
 
