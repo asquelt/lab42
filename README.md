@@ -42,3 +42,5 @@ nom run build
 # Contributing
 
 Just make a pr :)
+
+test
