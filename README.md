@@ -35,4 +35,4 @@ nom run build
 
 # Contributing
 
-Just make a pr :)
+Just make a pr and wait a bit :)
