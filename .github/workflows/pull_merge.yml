@@ -1,6 +1,11 @@
 name: Automerge PR
 
 on:
+  workflow_run:
+    workflows:
+      - pull_open
+    types:
+      - completed
   pull_request:
     type:
       - 'opened'
