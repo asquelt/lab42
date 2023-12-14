@@ -1,4 +1,4 @@
-name: OWASP SCA, merge on success
+name: OWASP SCA on PR
 
 on:
   pull_request:
@@ -33,13 +33,3 @@ jobs:
         with:
            name: Depcheck report
            path: ${{github.workspace}}/reports
-      - id: Automerge
-        name: automerge
-        uses: "pascalgn/automerge-action@v0.15.6"
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-      - name: Feedback
-        if: steps.Automerge.outputs.mergeResult == "merged"
-        run: |
-          echo "Pull request ${{ steps.automerge.outputs.pullRequestNumber }} merged!"
-
